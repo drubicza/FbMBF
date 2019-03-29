@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import os, sys, hashlib, requests
 if sys.platform == 'linux2':
     os.system('clear')
